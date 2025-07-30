@@ -1,79 +1,88 @@
-
-## Attention, Tech Visionaries! 🔍⚡👋 
-
-**`Digital Maestro (Work-Of-Art)`**
-
+<!-- Banner -->
 <p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg">
-		<img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=Hello+World!+You've+just+landed+on+my+GitHub!+🚀;I+am+focused+on+software+development+and+pentest;&center=true&width=600&height=45">
-	</a>
+  <img src="https://github.com/Sharleen10/Sharleen10/assets/banner.gif" alt="Animated Banner" width="100%" />
 </p>
 
-- Welcome to my GitHub profile! 🚀
+## Hey there, I’m Sharleen 👋🏽
 
-- As a tech enthusiast, I enjoy keeping it buff—I'm talking about the code, not muscles. 💪💪😂😂
+**`Web & App Developer | Software Tester | Code Alchemist`**  
+🚀 *"Embrace the struggle — it's forging your strength."*
 
-- I enjoy creating algorithms and simple solutions, and I'm always looking to improve my skills... 💻
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Web+Dev+%7C+App+Dev+%7C+Software+Testing;Gamer+with+a+love+for+clean+code;Turning+ideas+into+impactful+software" alt="Typing animation" />
+</p>
 
-- Join me on my journey through the world of programming. Let's work together to build something great. 🛤️🖥️
-  
-- Let's Code! 💻🚀
+---
 
-#
+### 💼 About Me
+- 💻 Focused on **Web & App Development**, **Software Engineering**, and **Testing**
+- 🧠 I love solving real-world problems with efficient code and creative UI
+- 🎮 Gamer with a knack for logic, precision, and high performance — in code and in-game
+- ✨ Always exploring new tools, frameworks, and ways to get better
 
-### 🧰 Languages
-<br/>
-<img align="left" alt="Java" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-<img align="left" alt="HTML5" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-<img align="left" alt="CSS3" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-<img align="left" alt="JavaScript" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="C++" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+---
 
-#
+### 🚀 Featured Projects
 
-### Tools 🛠️
-<img align="left" alt="Oracle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
-<img align="left" alt="MySQL" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Apache" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" />
-<img align="left" alt="Tomcat" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg" />
-<img align="left" alt="Linux" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Debian" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" />
-<img align="left" alt="Bash" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
-<img align="left" alt="GitHub" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-<img align="left" alt="Git" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-<br/> <br/> <br/> <br/> <br/> <br/> <br/>
-<br/>
-<br/>
-<br/>
+🔹 **[🎬 Movie Database App](https://github.com/Sharleen10/movie-database)**  
+React + TMDB API integration that lets users browse and explore trending content.
 
-#
+🔹 **[📊 Stratos Consulting Tool](https://github.com/Sharleen10/stratos-consulting)**  
+Internal business app powered by Java and Node.js with full-stack functionality.
 
-<!-- BEGIN GITHUB STATS -->
-### 🚀 GITHUB ACTIVITY & STREAKS 📊🔥
+🔹 **[🌐 Personal Portfolio](https://github.com/Sharleen10/portfolio)**  
+A sleek, responsive developer portfolio that showcases my work and dev identity.
+
+---
+
+### 🏆 GitHub Achievements
+
+- ✨ **100+ Commits** in a single month — consistency pays!
+- 🧪 Built and tested **production-ready apps** during my internship at Stratos
+- 📦 Contributed to and maintained **multiple full-stack projects**
+- 💥 Deployed real-time features using **Node.js + React**
+- 🎓 Completed **multiple software testing and data science modules**
+
+---
+
+### 🧰 Languages & Tools I Use
+
 <br/>
 
-![jumpman-cmd's GitHub stats](https://github-readme-stats.vercel.app/api?username=jumpman-cmd&show_icons=true&theme=gruvbox)
+<!-- Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jumpman-cmd&theme=gruvbox&border_radius=4.5)
 
+<!-- Tools -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" />
 
-## :book: Message Me </h2>
-<p> Say Hi To A Fellow Bro! 🚀 <a href="https://github.com/jumpman-cmd/jumpman-cmd/issues/new?template=guestbook-entry.md">Here</a>!</p>
+<br/><br/>
+
+---
+
+### 📊 GitHub Stats
+
+![Sharleen10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharleen10&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sharleen10&theme=tokyonight&border_radius=5)
+
+---
+
+### 📫 Let’s Connect
+
+If you’re into tech, gaming, or building cool stuff — let’s link up!  
+💬 Start a conversation in [Discussions](https://github.com/Sharleen10/Sharleen10/discussions) or [open an issue](https://github.com/Sharleen10/Sharleen10/issues)!
 
 <div align="center">
-	<a href="https://git.io/typing-svg">
-		<img alt="Hope you find something cool here!" 
-             src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=500&lines=Hope+you+find+something+cool+here!" />
-	</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=22&center=true&vCenter=true&width=500&lines=Always+learning+%F0%9F%93%9A;Always+building+%F0%9F%9A%80;Always+testing+%E2%9C%94%EF%B8%8F" />
 </div>
-<hr>
-<div align="center">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=72A1DE&width=435&lines=Coding+next-gen+high-performing+apps;Passionate+about+Dev+and+PenTest;Always+learning+%F0%9F%93%9A" alt="Typing animation" />  
-</div>  
