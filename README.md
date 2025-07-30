@@ -1,53 +1,79 @@
-## Hi there 👋
 
-<!--
-**Sharleen10/Sharleen10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Attention, Tech Visionaries! 🔍⚡👋 
 
-Here are some ideas to get you started:
+**`Digital Maestro (Work-Of-Art)`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
+<p align="center">
+	<a href="https://github.com/DenverCoder1/readme-typing-svg">
+		<img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=Hello+World!+You've+just+landed+on+my+GitHub!+🚀;I+am+focused+on+software+development+and+pentest;&center=true&width=600&height=45">
+	</a>
+</p>
 
-# Hello, I'm Sharleen! 👋
+- Welcome to my GitHub profile! 🚀
 
-[![GitHub followers](https://img.shields.io/github/followers/Sharleen10?style=social)](https://github.com/Sharleen10)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Sharleen10.Sharleen10)](https://github.com/Sharleen10)
+- As a tech enthusiast, I enjoy keeping it buff—I'm talking about the code, not muscles. 💪💪😂😂
 
-Welcome to my GitHub profile! I'm a passionate developer interested in building creative solutions.
+- I enjoy creating algorithms and simple solutions, and I'm always looking to improve my skills... 💻
 
-## 🔭 Currently Working On
-- Personal projects to expand my skills
-- Learning new technologies in web development
+- Join me on my journey through the world of programming. Let's work together to build something great. 🛤️🖥️
+  
+- Let's Code! 💻🚀
 
-## 🌱 Learning
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+#
 
-## 💼 Technical Skills
-### Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🧰 Languages
+<br/>
+<img align="left" alt="Java" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img align="left" alt="HTML5" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="CSS3" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+<img align="left" alt="JavaScript" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Python" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img align="left" alt="C++" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+#
 
-## 📊 GitHub Stats
-[![Sharleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharleen10&show_icons=true&theme=default)](https://github.com/Sharleen10)
+### Tools 🛠️
+<img align="left" alt="Oracle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+<img align="left" alt="MySQL" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Apache" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" />
+<img align="left" alt="Tomcat" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg" />
+<img align="left" alt="Linux" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Debian" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" />
+<img align="left" alt="Bash" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
+<img align="left" alt="GitHub" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+<img align="left" alt="Git" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+<br/> <br/> <br/> <br/> <br/> <br/> <br/>
+<br/>
+<br/>
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharleen10&layout=compact)](https://github.com/Sharleen10)
+#
 
-## 📫 Let's Connect
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](Your-LinkedIn-URL)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](Your-Twitter-URL)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:your-email@gmail.com)
+<!-- BEGIN GITHUB STATS -->
+### 🚀 GITHUB ACTIVITY & STREAKS 📊🔥
+<br/>
 
--->
+![jumpman-cmd's GitHub stats](https://github-readme-stats.vercel.app/api?username=jumpman-cmd&show_icons=true&theme=gruvbox)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jumpman-cmd&theme=gruvbox&border_radius=4.5)
+
+
+## :book: Message Me </h2>
+<p> Say Hi To A Fellow Bro! 🚀 <a href="https://github.com/jumpman-cmd/jumpman-cmd/issues/new?template=guestbook-entry.md">Here</a>!</p>
+
+<div align="center">
+	<a href="https://git.io/typing-svg">
+		<img alt="Hope you find something cool here!" 
+             src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=500&lines=Hope+you+find+something+cool+here!" />
+	</a>
+</div>
+<hr>
+<div align="center">  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=72A1DE&width=435&lines=Coding+next-gen+high-performing+apps;Passionate+about+Dev+and+PenTest;Always+learning+%F0%9F%93%9A" alt="Typing animation" />  
+</div>  
